@@ -1,0 +1,41 @@
+
+body{
+background-color: blue;
+background-image: url(doctor.jpg);
+}
+#hero_section{
+    height:48vh;
+     width: 100%;
+
+}
+ 
+  .sec1{  width: 48%;
+    height: 100%;
+}
+.picha{
+display: block;
+border-radius: 100%;
+width: 60%;
+text-align: center;
+}
+#rose{
+    font-size: 200%;
+    text-align: center;
+}
+
+#about_me{
+    color: brown;
+    text-align: center;    
+    margin-top: 3%;
+    padding: 5%;
+}
+#contact me{
+    align-content: centers;
+}
+form{
+    border: 1px solid black;
+    width: 50%;
+    margin-left: 25%;
+    padding: 2%;
+    border-radius: 3% 3#;
+}
